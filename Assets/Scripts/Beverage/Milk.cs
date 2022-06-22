@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*Concretete Decorator*/
 public class Milk : CondimentDecorator
 {
   public Milk()

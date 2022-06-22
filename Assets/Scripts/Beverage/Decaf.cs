@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*Concrete Component*/
 public class Decaf : Beverage
 {
   public override float Cost()
