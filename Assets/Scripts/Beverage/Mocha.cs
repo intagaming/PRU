@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+/*Concretete Decorator*/
 public class Mocha : CondimentDecorator
 {
   public Mocha()
